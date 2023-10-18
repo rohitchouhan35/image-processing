@@ -11,8 +11,8 @@ import java.util.List;
 
 public class Main {
 //    public static final String SOURCE_FILE = "./flowers.jpg";
-    public static final String SOURCE_FILE = "./test.txt";
-    public static final String DESTINATION_FILE = "./out/flowers.jpg";
+    public static final String SOURCE_FILE = "C://Users/asus nitro 5/Documents/JAVA/multithreading/src/main/java/imageProcessing/flowers.jpg";
+    public static final String DESTINATION_FILE = "C:/Users/asus nitro 5/Documents/JAVA/multithreading/src/main/resources/out/flowers.jpg";
 
     public static void main(String[] args) throws IOException {
 
