@@ -10,9 +10,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-//    public static final String SOURCE_FILE = "./flowers.jpg";
     public static final String SOURCE_FILE = "C://Users/asus nitro 5/Documents/JAVA/multithreading/src/main/java/imageProcessing/flowers.jpg";
-    public static final String DESTINATION_FILE = "C:/Users/asus nitro 5/Documents/JAVA/multithreading/src/main/resources/out/flowers.jpg";
+    public static final String DESTINATION_FILE = "C:/Users/asus nitro 5/Documents/JAVA/multithreading/src/main/java/imageProcessing/outputFlowers.jpg";
 
     public static void main(String[] args) throws IOException {
 
@@ -27,7 +26,7 @@ public class Main {
 
         long startTime = System.currentTimeMillis();
         // recolorSingleThreaded(originalImage, resultImage);
-        int numberOfThreads = 1;
+        int numberOfThreads = 3;
         recolorMultithreaded(originalImage, resultImage, numberOfThreads);
         long endTime = System.currentTimeMillis();
 
