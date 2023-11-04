@@ -1,5 +1,3 @@
-Creating a README file for your API documentation is a great way to provide information and guidance to developers and users who want to interact with your API. Here's a sample README file for your classroom management application API:
-
 # Classroom Management API
 
 Welcome to the Classroom Management API documentation. This API is designed to provide functionality for managing assignments, students, and teachers in a classroom setting. It is built with Spring Boot and provides a range of features to support the educational process.
