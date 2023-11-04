@@ -10,8 +10,6 @@ Welcome to the Classroom Management API documentation. This API is designed to p
 - [Authentication](#authentication)
 - [Features](#features)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -83,14 +81,6 @@ Here are some examples of common API use cases:
 - Grading a student's submission as a teacher.
 - Fetching a list of all registered users.
 - Saving a new user to the database.
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to the development of this API, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
